@@ -1,1 +1,53 @@
 /* Estilos iniciales del proyecto web */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #243447;
+    background-color: #f2f5f8;
+}
+
+header {
+    padding: 24px;
+    color: white;
+    background-color: #174a73;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+main {
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin: 16px 0;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+footer {
+    padding: 16px;
+    text-align: center;
+    color: white;
+    background-color: #243447;
+}
