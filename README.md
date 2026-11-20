@@ -7,3 +7,7 @@ Práctica de control de versiones con Git y GitHub.
 - Estructura de la página en HTML.
 - Menú de navegación y secciones principales.
 - Estilos básicos en CSS.
+
+## Próximas mejoras
+
+- Añadir nuevas secciones y mejorar el diseño de la página.
